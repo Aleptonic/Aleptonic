@@ -42,4 +42,4 @@ My most recent work has been as a Research Intern at **IIT-Bombay**, where I'm w
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [linkedin.com/in/akshay-gokhale](https://www.linkedin.com/in/heythisisakshaygokhale/)
-* **Email:** [goakshay07@gmail.com](mailto:goakshay07@gmail.com)
+* **Email:** [akshay.m.gokhale@gmail.com](mailto:akshay.m.gokhale@gmail.com)
