@@ -33,8 +33,8 @@ My most recent work has been as a Research Intern at **IIT-Bombay**, where I'm w
 
 ### 🚀 What I'm Working On
 
-* **[📄 ILBE (AICS 2026 Submission)](https://github.com/Aleptonic/MAML):** Innovating a novel data augmentation (ILBE) for few-shot visual malware classification. My paper on this is currently under review.
-* **🧠 Undergrad Final Project (TDA + U-Net):** Using Topological Data Analysis (Persistent Homology) to enhance U-Net architectures for segmenting small intracranial aneurysms.
+* **[📄 ILBE (AICS 2026 Submission)](https://github.com/Aleptonic/MAML):** Innovating a novel data augmentation (ILBE) for few-shot visual malware classification.
+* **🧠 Undergrad Final Project (TDA + U-Net):** Using Topological Data Analysis (Persistent Homology) to enhance U-Net architectures for segmenting small intracranial aneurysms. Paper under review at MLHC 2026.
 * **🤖 GenAI Agent Memory:** Developing a long-term memory architecture for real-time voice AI agents in the medical field.
 
 ---
